@@ -1,1 +1,1 @@
-# puppy-page
+# responsive puppy page using media query
